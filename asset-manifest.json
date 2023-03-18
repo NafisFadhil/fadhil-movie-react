@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/fadhil-movie-react/static/css/main.b9606082.css",
-    "main.js": "/fadhil-movie-react/static/js/main.f48c581f.js",
+    "main.css": "/fadhil-movie-react/static/css/main.7ddce3c0.css",
+    "main.js": "/fadhil-movie-react/static/js/main.fe01abd9.js",
     "static/js/787.588f0b0d.chunk.js": "/fadhil-movie-react/static/js/787.588f0b0d.chunk.js",
     "index.html": "/fadhil-movie-react/index.html",
-    "main.b9606082.css.map": "/fadhil-movie-react/static/css/main.b9606082.css.map",
-    "main.f48c581f.js.map": "/fadhil-movie-react/static/js/main.f48c581f.js.map",
+    "main.7ddce3c0.css.map": "/fadhil-movie-react/static/css/main.7ddce3c0.css.map",
+    "main.fe01abd9.js.map": "/fadhil-movie-react/static/js/main.fe01abd9.js.map",
     "787.588f0b0d.chunk.js.map": "/fadhil-movie-react/static/js/787.588f0b0d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b9606082.css",
-    "static/js/main.f48c581f.js"
+    "static/css/main.7ddce3c0.css",
+    "static/js/main.fe01abd9.js"
   ]
 }
